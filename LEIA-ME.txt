@@ -1,0 +1,21 @@
+900 TRAVEL REELS PACK — ENGLISH MOBILE SALES PAGE
+LIMITED-TIME PROMOTION: $39.90 reduced to $14.90
+
+FILES
+- index.html: English-language, mobile-first sales page.
+- assets/: three sample videos and their poster images.
+
+PUBLISHING
+1. Extract the ZIP archive.
+2. Upload index.html and the assets folder together to your static hosting provider (for example, Vercel or Netlify).
+3. Test the sample videos and all purchase buttons on mobile and desktop.
+
+TRACKING AND CHECKOUT
+- Checkout: https://pay.cakto.com.br/3fc3egh_1253283
+- Meta Pixel ID: 2323734865039006
+- PageView fires when the page loads; InitiateCheckout fires when a purchase button is clicked.
+- Confirm the product price and currency configured in Hotmart before publishing. The page displays a limited-time promotional price of $14.90, reduced from $39.90. Confirm that the product price and currency configured in Hotmart match before publishing.
+- Configure Purchase tracking in Hotmart for confirmed purchases, and verify event deduplication if using browser and server events.
+
+IMPORTANT
+Confirm that the product materials are licensed for commercial use and redistribution before advertising or selling them.
